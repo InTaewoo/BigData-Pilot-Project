@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/81672260/134792405-55d40d90-f322-49b6-8cde-0e40da4b305a.png)
 
 
-## CM에 HDFS, YARN, ZooKeeper 설치
+## ClouderaManager에 HDFS, YARN, ZooKeeper 설치
 ![cloudera manager](https://user-images.githubusercontent.com/81672260/134792468-a13e7f1a-5986-432c-947d-16a0dad6a4fb.png)
 
 ## Server02에 스마트카 로그 시뮬레이터를 업로드

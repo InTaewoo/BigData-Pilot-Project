@@ -10,3 +10,9 @@
 
 ## CM에 HDFS, YARN, ZooKeeper 설치
 ![cloudera manager](https://user-images.githubusercontent.com/81672260/134792468-a13e7f1a-5986-432c-947d-16a0dad6a4fb.png)
+
+## Server02에 스마트카 로그 시뮬레이터를 업로드
+- 스마트카 운전자의 운행정보를 실시간으로 발생시키는 DriverLogMain.java
+- 스마트카의 정보를 주기적으로 발생시키는 CarLoginMain.java
+- 우선 DriverLogMain.java를 실행
+![image](https://user-images.githubusercontent.com/81672260/134793146-47af9977-d2bb-4085-8440-b3aa03490b02.png)

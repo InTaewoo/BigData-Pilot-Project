@@ -32,5 +32,9 @@
 ![image](https://user-images.githubusercontent.com/81672260/134903531-a8960b26-9c9a-4a8b-902a-5c8ec470beda.png)
 
 ## Flume 수집 기능 구현
-플럼의 에이전트에서 사용할 Source, Channel, Sink의 각 리소스 
+플럼의 에이전트에서 사용할 Source, Channel, Sink의 각 리소스 변수 정의
 ![image](https://user-images.githubusercontent.com/81672260/134906130-a842b022-57c3-4d9b-a14e-8dab4d5c27c4.png)
+
+## SmaerCar에이전트에 Interceptor 추가
+![image](https://user-images.githubusercontent.com/81672260/134906861-5c54f61a-9ae7-4ae3-9e9d-2d28a2703f1a.png)
+

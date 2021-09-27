@@ -23,3 +23,9 @@
 
 ## 빅데이터 수집 소개
 ![image](https://user-images.githubusercontent.com/81672260/134793759-9c7465ce-3ca9-47e3-8219-a4ddf5275ab5.png)
+
+
+## Flume 설치
+![image](https://user-images.githubusercontent.com/81672260/134902957-47764937-88f1-4224-b149-be9f2a9ed113.png)
+
+## Kafka 설치

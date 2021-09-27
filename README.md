@@ -58,3 +58,4 @@
 ![image](https://user-images.githubusercontent.com/81672260/134912080-a8e95192-c313-4e9f-8e4f-43fc2164f1c3.png)
 
 # 2-10 카프카 Consumer 작동
+![image](https://user-images.githubusercontent.com/81672260/134914858-95492c16-dfd5-4071-be78-90c6546c11b8.png)

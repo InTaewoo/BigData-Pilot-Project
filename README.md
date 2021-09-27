@@ -38,3 +38,12 @@
 ## SmaerCar에이전트에 Interceptor 추가
 ![image](https://user-images.githubusercontent.com/81672260/134906861-5c54f61a-9ae7-4ae3-9e9d-2d28a2703f1a.png)
 
+## DriverCarInfo 에이전트 생성
+![image](https://user-images.githubusercontent.com/81672260/134907392-e56490b8-0b0f-4283-b754-f3544e824dec.png)
+
+## 카프카 Producer 사용
+![image](https://user-images.githubusercontent.com/81672260/134909967-3e18052c-d9a7-45d4-bfc7-a8c0ffb1e1e6.png)
+
+## 카프카 Consumer 사용
+- Server02에 새로 SSH터미널을 2개 열어서 각각 카프카 Consumer명령을 실행하여 수신된 메세지를 
+![image](https://user-images.githubusercontent.com/81672260/134910652-814a8012-6cdb-485d-847e-7a52c77f1c00.png)

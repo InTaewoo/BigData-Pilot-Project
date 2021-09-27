@@ -51,3 +51,10 @@
 ## 2-8 카프카 Consumer 사용
 - Server02에 새로 SSH터미널을 2개 열어서 각각 카프카 Consumer명령을 실행하여 수신된 메세지를 
 ![image](https://user-images.githubusercontent.com/81672260/134910652-814a8012-6cdb-485d-847e-7a52c77f1c00.png)
+
+## 2-9 수집 기능 테스트
+- SmartCar 로그 시뮬레이터 작동
+
+![image](https://user-images.githubusercontent.com/81672260/134912080-a8e95192-c313-4e9f-8e4f-43fc2164f1c3.png)
+
+# 2-10 카프카 Consumer 작동

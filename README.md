@@ -28,4 +28,6 @@
 ## Flume 설치
 ![image](https://user-images.githubusercontent.com/81672260/134902957-47764937-88f1-4224-b149-be9f2a9ed113.png)
 
-## Kafka 설치
+## Kafka 설치후 Data Rentention Time을 10분으로 수정
+![image](https://user-images.githubusercontent.com/81672260/134903531-a8960b26-9c9a-4a8b-902a-5c8ec470beda.png)
+

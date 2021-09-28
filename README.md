@@ -60,8 +60,13 @@
 ## 2-10 카프카 Consumer 작동
 ![image](https://user-images.githubusercontent.com/81672260/134914858-95492c16-dfd5-4071-be78-90c6546c11b8.png)
 
-# 3. 빅데이터 적재
+# 3. 빅데이터 적재 Ⅰ
 - 대용량 로그 파일 적재
 
 ## 3.1 SmartCar 에이전트 수정 (Logger Sink -> HDFS Sink)
 ![image](https://user-images.githubusercontent.com/81672260/135026859-cd95d39f-ef48-48f0-af67-1b437477ec4f.png)
+
+# 4. 빅데이터 적재 Ⅱ
+- 실시간 로그/분석 적재
+
+

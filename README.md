@@ -75,7 +75,8 @@
 ## 4-2 Redis 설치
 ![image](https://user-images.githubusercontent.com/81672260/135115395-67936f59-5bb5-4320-ba6a-ef14a274d9c1.png)
 
-## 4-3 Redis 원격 접근 허용
+## 4-3 Redis 원격 접근 허용후 Redis서버에 데이터를 저장/조회
 
+![image](https://user-images.githubusercontent.com/81672260/135116762-2fed2281-bd8a-4479-885a-992bc5d7f206.png)
 
 

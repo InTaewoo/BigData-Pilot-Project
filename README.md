@@ -63,3 +63,5 @@
 # 3. 빅데이터 적재
 - 대용량 로그 파일 적재
 
+## 3.1 SmartCar 에이전트 수정 (Logger Sink -> HDFS Sink)
+![image](https://user-images.githubusercontent.com/81672260/135026859-cd95d39f-ef48-48f0-af67-1b437477ec4f.png)

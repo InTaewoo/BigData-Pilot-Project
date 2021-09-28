@@ -63,10 +63,19 @@
 # 3. 빅데이터 적재 Ⅰ
 - 대용량 로그 파일 적재
 
-## 3.1 SmartCar 에이전트 수정 (Logger Sink -> HDFS Sink)
+## 3-1 SmartCar 에이전트 수정 (Logger Sink -> HDFS Sink)
 ![image](https://user-images.githubusercontent.com/81672260/135026859-cd95d39f-ef48-48f0-af67-1b437477ec4f.png)
 
 # 4. 빅데이터 적재 Ⅱ
 - 실시간 로그/분석 적재
+
+## 4-1 Hbase 설치
+![image](https://user-images.githubusercontent.com/81672260/135105093-ff6cad5e-23fa-4a7d-97d2-1a387f3b2896.png)
+
+## 4-2 Redis 설치
+![image](https://user-images.githubusercontent.com/81672260/135115395-67936f59-5bb5-4320-ba6a-ef14a274d9c1.png)
+
+## 4-3 Redis 원격 접근 허용
+
 
 

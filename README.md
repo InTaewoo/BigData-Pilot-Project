@@ -82,3 +82,11 @@
 ## 4-4 Storm 설치
 - storm-nimbus, storm-supervisor, storm-ui 3개 파일을 설치하고 정상적으로 구동되었는지 확인
 ![image](https://user-images.githubusercontent.com/81672260/135207767-b7baaf72-c771-4e00-ab15-dc549acde3ac.png)
+
+## 4-5 실시간 적재 기능 구현
+- 카프카 Spout 기능 구현
+- Split Bolt 기능 구현
+- HBase Bolt 기능 구현
+- 에스퍼 Bolt 기능 구현
+- 레디스 Bolt 기능 구현
+- 

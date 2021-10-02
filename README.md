@@ -66,6 +66,10 @@
 ## 3-1 SmartCar 에이전트 수정 (Logger Sink -> HDFS Sink)
 ![image](https://user-images.githubusercontent.com/81672260/135026859-cd95d39f-ef48-48f0-af67-1b437477ec4f.png)
 
+
+## 3-2 Flume 이벤트 작동, 명령어 확인
+![image](https://user-images.githubusercontent.com/81672260/135724949-811bf100-5838-4f17-b094-368fe83dfab6.png)
+
 # 4. 빅데이터 적재 Ⅱ
 - 실시간 로그/분석 적재
 
@@ -83,17 +87,21 @@
 - storm-nimbus, storm-supervisor, storm-ui 3개 파일을 설치하고 정상적으로 구동되었는지 확인
 ![image](https://user-images.githubusercontent.com/81672260/135207767-b7baaf72-c771-4e00-ab15-dc549acde3ac.png)
 
-## 4-5 실시간 적재 기능 구현
+## 4-5 Storm UI 
+URL = http://server02.hadoop.com:8088
+![image](https://user-images.githubusercontent.com/81672260/135725186-02ac8314-d23c-4422-bc58-718e743fa914.png)
+
+## 4-6 실시간 적재 기능 구현
 - 카프카 Spout 기능 구현
 - Split Bolt 기능 구현
 - HBase Bolt 기능 구현
 - 에스퍼 Bolt 기능 구현
 - 레디스 Bolt 기능 구현
 
-## 4-6 Hbase 테이블 생성
+## 4-77 Hbase 테이블 생성
 - 파일럿 프로젝트에서 수집한 운전자의 모든 운행 정보는 Hbase에 적재
 
-## 4-7 로그 시뮬레이터 작동
+## 4-8 로그 시뮬레이터 작동
 ![image](https://user-images.githubusercontent.com/81672260/135627229-28046408-ab6e-477e-8758-d2f3d9dba021.png)
 
 ## 

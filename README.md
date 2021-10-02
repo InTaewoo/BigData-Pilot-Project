@@ -93,5 +93,5 @@
 ## 4-6 Hbase 테이블 생성
 - 파일럿 프로젝트에서 수집한 운전자의 모든 운행 정보는 Hbase에 적재
 
-## 로그 시뮬레이터 작동
+## 4-7 로그 시뮬레이터 작동
 ![image](https://user-images.githubusercontent.com/81672260/135627229-28046408-ab6e-477e-8758-d2f3d9dba021.png)

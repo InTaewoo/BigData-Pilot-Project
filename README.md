@@ -95,3 +95,5 @@
 
 ## 4-7 로그 시뮬레이터 작동
 ![image](https://user-images.githubusercontent.com/81672260/135627229-28046408-ab6e-477e-8758-d2f3d9dba021.png)
+
+## 

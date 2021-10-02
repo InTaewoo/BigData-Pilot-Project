@@ -98,10 +98,15 @@ URL = http://server02.hadoop.com:8088
 - 에스퍼 Bolt 기능 구현
 - 레디스 Bolt 기능 구현
 
-## 4-77 Hbase 테이블 생성
+## 4-7 Hbase 테이블 생성
 - 파일럿 프로젝트에서 수집한 운전자의 모든 운행 정보는 Hbase에 적재
 
-## 4-8 로그 시뮬레이터 작동
+## 4-8 Storm Topology배포
+![image](https://user-images.githubusercontent.com/81672260/135725725-175c08b3-6259-4320-968a-7f8fefb93af0.png)
+
+## 4-9 로그 시뮬레이터 작동
 ![image](https://user-images.githubusercontent.com/81672260/135627229-28046408-ab6e-477e-8758-d2f3d9dba021.png)
 
-## 
+## 4-10 Hbase에 적재 확인
+![image](https://user-images.githubusercontent.com/81672260/135725822-17291103-4ea0-4cbd-a77c-21bd09e174bc.png)
+

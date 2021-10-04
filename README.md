@@ -120,3 +120,6 @@ URL = http://server02.hadoop.com:8088
 - direct_light : N -> 깜빡이는 켜지 않은 상태
 - area_number: D04 -> D04지역을 운행
 ![image](https://user-images.githubusercontent.com/81672260/135848033-3a162ced-76d3-452f-861b-68cb99fa0d4a.png)
+
+# 4-12 Eclipse개발환경 구성
+![image](https://user-images.githubusercontent.com/81672260/135858249-ef6067fe-78a2-4303-9db6-b3e3eb1a0020.png)

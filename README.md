@@ -110,3 +110,13 @@ URL = http://server02.hadoop.com:8088
 ## 4-10 Hbase에 적재 확인
 ![image](https://user-images.githubusercontent.com/81672260/135725822-17291103-4ea0-4cbd-a77c-21bd09e174bc.png)
 
+## 4-11 운행 기록
+- car_number:UOOO7 -> 스마트카 차량 번호가 U0007인 운전자의
+- date L 20160301010000 -> 2016년 3월 1일 01시 00분 00초 운행정보는
+- speed: 25 -> 시속 25km/h로 주행
+- speed_pedal :1 -> 가속 페달을 1단계 진행
+- steer_angle : F -> 핸들은 직진중
+- break_pedal : 0 -> 브레이크는 밟지 않는 상태
+- direct_light : N -> 깜빡이는 켜지 않은 상태
+- area_number: D04 -> D04지역을 운행
+![image](https://user-images.githubusercontent.com/81672260/135848033-3a162ced-76d3-452f-861b-68cb99fa0d4a.png)

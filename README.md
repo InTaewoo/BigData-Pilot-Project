@@ -121,5 +121,14 @@ URL = http://server02.hadoop.com:8088
 - area_number: D04 -> D04지역을 운행
 ![image](https://user-images.githubusercontent.com/81672260/135848033-3a162ced-76d3-452f-861b-68cb99fa0d4a.png)
 
-# 4-12 Eclipse개발환경 구성
+## 4-12 Eclipse개발환경 구성
 ![image](https://user-images.githubusercontent.com/81672260/135858249-ef6067fe-78a2-4303-9db6-b3e3eb1a0020.png)
+
+# 5-1 빅데이터 
+## 빅데이터 탐색 소개
+- 빅데이터 탐색개요
+- 빅데이터 탐색에 사용되는 기술(Hive, Spark, Oozie, Hue)
+- 탐색 파일럿 실행 1단계 - 탐색 아키텍처
+- 탐색 파일럿 실행 2단계 - 탐색 환경 구성
+- 탐색 파일럿 실행 3단계 - Hue를 이용한 데이터 탐색
+- 탐색 파일럿 실행 4단계 - 데이터 탐색 기능 구현 및 테스트

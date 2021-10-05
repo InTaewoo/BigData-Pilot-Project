@@ -124,11 +124,19 @@ URL = http://server02.hadoop.com:8088
 ## 4-12 Eclipse개발환경 구성
 ![image](https://user-images.githubusercontent.com/81672260/135858249-ef6067fe-78a2-4303-9db6-b3e3eb1a0020.png)
 
-# 5-1 빅데이터 
-## 빅데이터 탐색 소개
+#  빅데이터 탐색
+## 5-1 빅데이터 탐색 소개
 - 빅데이터 탐색개요
 - 빅데이터 탐색에 사용되는 기술(Hive, Spark, Oozie, Hue)
 - 탐색 파일럿 실행 1단계 - 탐색 아키텍처
 - 탐색 파일럿 실행 2단계 - 탐색 환경 구성
 - 탐색 파일럿 실행 3단계 - Hue를 이용한 데이터 탐색
 - 탐색 파일럿 실행 4단계 - 데이터 탐색 기능 구현 및 테스트
+
+## 5-2 Hive 설치
+![image](https://user-images.githubusercontent.com/81672260/136022517-8b65d0a8-c51d-460b-be4b-421cb3e16ca0.png)
+
+## 5-3 Oozie 설치
+
+## 5-4 Hue 설치
+- Hue를 설치하기 위해서는 Python2.7이 설치돼어 있어야한다.

@@ -139,4 +139,4 @@ URL = http://server02.hadoop.com:8088
 ## 5-3 Oozie 설치
 
 ## 5-4 Hue 설치
-- Hue를 설치하기 위해서는 Python2.7이 설치돼어 있어야한다.
+- Hue를 설치하기 위해서는 Python2.7이 설치돼어 있어야한다

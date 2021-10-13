@@ -60,6 +60,10 @@
 ## 2-10 카프카 Consumer 작동
 ![image](https://user-images.githubusercontent.com/81672260/134914858-95492c16-dfd5-4071-be78-90c6546c11b8.png)
 
+## 2-11 카프카 - 플럼 수집기능 점검
+![image](https://user-images.githubusercontent.com/81672260/137128450-f3cf2281-4abf-4af5-9a93-253aeb4fae51.png)
+
+
 # 3. 빅데이터 적재 Ⅰ
 - 대용량 로그 파일 적재
 

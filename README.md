@@ -159,7 +159,7 @@ URL = http://server02.hadoop.com:8088
 ## 5-3 Oozie 설치
 
 ## 5-4 Hue 설치
-- Hue를 설치하기 위해서는 Python2.7이 설치돼어 있어야한다
+- Hue를 설치하기 위해서는 Python2.7이 설치되어 있어야한다
 
 
 - psycopg2설치
@@ -195,3 +195,11 @@ URL = http://server02.hadoop.com:8088
 3. 데이터 부분적인 수정(Update/Delete)불가
 4. 대규모 병렬분산 처리가 불가능한 경우
 5. 트랜잭션 관리 기능이 없어 롤백 처리 불가
+
+## 5-11 Hive를 이용한 HBase 데이터 탐색
+![image](https://user-images.githubusercontent.com/81672260/137492147-0ff44e75-322c-4edb-920b-f6e30a1d79d7.png)
+* 11번째 줄에서 저장방식을 HBaseStorageHandler로 정의했고, 13번째줄부터 21번째 줄까지는 Hbase의 DriverCarInfo 테이블과 칼럼 패밀리에 해당하는 필드 정보를 하이브 테이블과 매핑에 생성함
+
+## 5-12 Spark를 이용한 추가 데이터셋 탐색
+![image](https://user-images.githubusercontent.com/81672260/137494003-6f615bac-6893-4ecc-9e48-33c772e01dfa.png
+* spark-sql로 age가 18이상으로 만들어진 dataframe출력

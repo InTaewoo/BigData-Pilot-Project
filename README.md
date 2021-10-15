@@ -103,9 +103,13 @@ URL = http://server02.hadoop.com:8088
 - 레디스 Bolt 기능 구현
 
 ## 4-7 Hbase 테이블 생성
+![image](https://user-images.githubusercontent.com/81672260/137434187-fe12779a-c5ca-48ea-a433-a18eab2bf95e.png)
+
 - 파일럿 프로젝트에서 수집한 운전자의 모든 운행 정보는 Hbase에 적재
 
 ## 4-8 Storm Topology배포
+![image](https://user-images.githubusercontent.com/81672260/137434489-b50072e9-f051-494d-9772-7fa6bb445338.png)
+
 ![image](https://user-images.githubusercontent.com/81672260/135725725-175c08b3-6259-4320-968a-7f8fefb93af0.png)
 
 ## 4-9 로그 시뮬레이터 작동
@@ -124,6 +128,18 @@ URL = http://server02.hadoop.com:8088
 - direct_light : N -> 깜빡이는 켜지 않은 상태
 - area_number: D04 -> D04지역을 운행
 ![image](https://user-images.githubusercontent.com/81672260/135848033-3a162ced-76d3-452f-861b-68cb99fa0d4a.png)
+
+## 4-12 레디스에 적재된 데이터 확인
+![image](https://user-images.githubusercontent.com/81672260/137451534-f0e205c4-dcab-434d-993f-71fe44bde43e.png)
+
+## 4-13 레디스 클라이언트 애플리케이션 작동
+![image](https://user-images.githubusercontent.com/81672260/137451730-38033cac-2c78-4998-af52-57621be472c7.png)
+
+ 차량번호 - 날짜
+- K0002-20160103020050
+- B0001-20160103015054
+- I0010-20160103003056
+3대가 과속위반차량으로 발견됌
 
 ## 4-12 Eclipse개발환경 구성
 ![image](https://user-images.githubusercontent.com/81672260/135858249-ef6067fe-78a2-4303-9db6-b3e3eb1a0020.png)

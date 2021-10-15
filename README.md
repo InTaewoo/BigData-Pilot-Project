@@ -179,4 +179,12 @@ URL = http://server02.hadoop.com:8088
 ## 5-7 HBase에 적재된 데이터 확인
 ![image](https://user-images.githubusercontent.com/81672260/137487904-9a1af476-ece2-4f45-ae33-5f732f842109.png)
 
+## 5-8 Hive를 이용한 External 데이터 탐색
+![image](https://user-images.githubusercontent.com/81672260/137488214-d47c07f1-9a6d-4fe7-9119-df37edbec7d7.png)
 
+## 5-9 스마트카 상태정보 테이블을 조회한 결과
+![image](https://user-images.githubusercontent.com/81672260/137488900-6a1b138c-e62a-46fe-b595-326100883ff7.png)
+
+## 5-10 스마트카 상태 정보 테이블에 대한 조건 조회
+- 스마트카의 배터리 상태가 '60'이하였던 차량을 찾고 배터리 평균값을 구해본다.
+![image](https://user-images.githubusercontent.com/81672260/137489200-b9e75e52-ea28-4de7-8944-d9acf75d9b59.png)

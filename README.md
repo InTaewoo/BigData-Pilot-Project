@@ -224,4 +224,8 @@ URL = http://server02.hadoop.com:8088
 * 로그는 24시간을 기준으로 지속적으로 생성된다
 
 6. 스마트카 운전자의 운행 데이터 적재 확인
- 
+ ![image](https://user-images.githubusercontent.com/81672260/137504824-cb629d6e-eb90-437a-adbd-07b4b80e2427.png)
+
+## 5-14 2021-10-15 날짜로 과속한 스마트카 차량 정보
+![image](https://user-images.githubusercontent.com/81672260/137504985-750e01e3-8027-4568-9382-a33e6047589b.png)
+

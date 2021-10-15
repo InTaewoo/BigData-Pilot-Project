@@ -167,3 +167,6 @@ URL = http://server02.hadoop.com:8088
 
 ## 5-5 Spark설치
 ![image](https://user-images.githubusercontent.com/81672260/137487104-b7af93fc-cfd4-4fcc-be79-35d123b1cd1a.png)
+
+# Hive, Oozie, hue, spark 설치 완료
+![image](https://user-images.githubusercontent.com/81672260/137487173-39d783aa-d942-4c3c-8b1f-f85511a47c3d.png)

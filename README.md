@@ -164,3 +164,6 @@ URL = http://server02.hadoop.com:8088
 
 - psycopg2설치
  ![image](https://user-images.githubusercontent.com/81672260/137485936-bdd0bd24-5812-420b-800b-96c8d2945aac.png)
+
+## 5-5 Spark설치
+![image](https://user-images.githubusercontent.com/81672260/137487104-b7af93fc-cfd4-4fcc-be79-35d123b1cd1a.png)

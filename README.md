@@ -212,8 +212,16 @@ URL = http://server02.hadoop.com:8088
 ![image](https://user-images.githubusercontent.com/81672260/137497451-5fa34fc0-4904-4a88-be04-344b2a8548a0.png)
 * 스마트카 상태정보 데이터를 플럼의 수집 디렉터리로 옮긴다. 플럼이 수집 작업을 시작한다.
 
-5. 스마트카 상태 정보 데이터 적재 확인
-6. 스마트카 운전자 운행 로그 생성
-7. 스마트카 운전자의 운행 로그 확인
-8. 스마트카 운전자의 운행 데이터 적재 확인
-9. 
+3. 스마트카 상태 정보 데이터 적재 확인
+![image](https://user-images.githubusercontent.com/81672260/137498363-1be112aa-d6e0-4406-9e13-23796713928c.png)
+
+4. 스마트카 운전자 운행 로그 생성
+ ![image](https://user-images.githubusercontent.com/81672260/137498767-ac7ec1f2-eaf3-4fef-8abd-f1cf2b5e89b8.png)
+* 플럼, 카프카, 스톰 레디스, Hbase시작
+
+5. 스마트카 운전자의 운행 로그 확인
+![image](https://user-images.githubusercontent.com/81672260/137499255-0fdec90d-994b-4c74-b0b5-bb41a7efe549.png)
+* 로그는 24시간을 기준으로 지속적으로 생성된다
+
+6. 스마트카 운전자의 운행 데이터 적재 확인
+ 

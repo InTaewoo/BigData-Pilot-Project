@@ -160,3 +160,7 @@ URL = http://server02.hadoop.com:8088
 
 ## 5-4 Hue 설치
 - Hue를 설치하기 위해서는 Python2.7이 설치돼어 있어야한다
+
+
+- psycopg2설치
+ ![image](https://user-images.githubusercontent.com/81672260/137485936-bdd0bd24-5812-420b-800b-96c8d2945aac.png)

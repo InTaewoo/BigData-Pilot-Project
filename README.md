@@ -176,4 +176,7 @@ URL = http://server02.hadoop.com:8088
 
 ![image](https://user-images.githubusercontent.com/81672260/137487708-4af57ce3-fb13-442c-8322-789952bac7fe.png)
 
+## 5-7 HBase에 적재된 데이터 확인
+![image](https://user-images.githubusercontent.com/81672260/137487904-9a1af476-ece2-4f45-ae33-5f732f842109.png)
+
 

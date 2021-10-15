@@ -203,3 +203,17 @@ URL = http://server02.hadoop.com:8088
 ## 5-12 Spark를 이용한 추가 데이터셋 탐색
 ![image](https://user-images.githubusercontent.com/81672260/137494003-6f615bac-6893-4ecc-9e48-33c772e01dfa.png
 * spark-sql로 age가 18이상으로 만들어진 dataframe출력
+
+## 5-13 스마트카 상태 정보 데이터 생성
+1. 스마트카 상태 정보 데이터 생성
+![image](https://user-images.githubusercontent.com/81672260/137497249-7e5e0c2f-4e2b-47d1-bb31-611e631e08b4.png)
+
+2. 스마트카 상태 정보 데이터 적재
+![image](https://user-images.githubusercontent.com/81672260/137497451-5fa34fc0-4904-4a88-be04-344b2a8548a0.png)
+* 스마트카 상태정보 데이터를 플럼의 수집 디렉터리로 옮긴다. 플럼이 수집 작업을 시작한다.
+
+5. 스마트카 상태 정보 데이터 적재 확인
+6. 스마트카 운전자 운행 로그 생성
+7. 스마트카 운전자의 운행 로그 확인
+8. 스마트카 운전자의 운행 데이터 적재 확인
+9. 

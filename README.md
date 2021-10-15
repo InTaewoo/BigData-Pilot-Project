@@ -170,3 +170,10 @@ URL = http://server02.hadoop.com:8088
 
 # Hive, Oozie, hue, spark 설치 완료
 ![image](https://user-images.githubusercontent.com/81672260/137487173-39d783aa-d942-4c3c-8b1f-f85511a47c3d.png)
+
+## 5-6 Hue를 이용해 HDFS에적재된 스마트카 상태 정보 파일 확인
+![image](https://user-images.githubusercontent.com/81672260/137487658-81834fb7-e875-44d3-a5f1-c0f937a8e964.png)
+
+![image](https://user-images.githubusercontent.com/81672260/137487708-4af57ce3-fb13-442c-8322-789952bac7fe.png)
+
+

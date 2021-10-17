@@ -189,7 +189,7 @@ URL = http://server02.hadoop.com:8088
 - 스마트카의 배터리 상태가 '60'이하였던 차량을 찾고 배터리 평균값을 구해본다.
 ![image](https://user-images.githubusercontent.com/81672260/137489200-b9e75e52-ea28-4de7-8944-d9acf75d9b59.png)
 
-# 하이브의 특징
+### 하이브의 특징
 1. 하이브 쿼리는 맵리듀스로 변환되어 실행
 2. 대화형 온라인 쿼리 사용에 부적합
 3. 데이터 부분적인 수정(Update/Delete)불가

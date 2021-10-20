@@ -201,7 +201,7 @@ URL = http://server02.hadoop.com:8088
 * 11번째 줄에서 저장방식을 HBaseStorageHandler로 정의했고, 13번째줄부터 21번째 줄까지는 Hbase의 DriverCarInfo 테이블과 칼럼 패밀리에 해당하는 필드 정보를 하이브 테이블과 매핑에 생성함
 
 ## 5-12 Spark를 이용한 추가 데이터셋 탐색
-![image](https://user-images.githubusercontent.com/81672260/137494003-6f615bac-6893-4ecc-9e48-33c772e01dfa.png
+![image](https://user-images.githubusercontent.com/81672260/137494003-6f615bac-6893-4ecc-9e48-33c772e01dfa.png)
 * spark-sql로 age가 18이상으로 만들어진 dataframe출력
 
 ## 5-13 스마트카 상태 정보 데이터 생성

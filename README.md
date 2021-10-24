@@ -46,7 +46,7 @@
 ## 2-6 DriverCarInfo 에이전트 생성
 ![image](https://user-images.githubusercontent.com/81672260/134907392-e56490b8-0b0f-4283-b754-f3544e824dec.png)
 
-## 2-7 카프카 Producer 사용
+## 2-7 카프카 Producer사용
 ![image](https://user-images.githubusercontent.com/81672260/134909967-3e18052c-d9a7-45d4-bfc7-a8c0ffb1e1e6.png)
 
 ## 2-8 카프카 Consumer 사용

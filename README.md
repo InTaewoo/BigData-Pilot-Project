@@ -23,6 +23,7 @@
 ![image](https://user-images.githubusercontent.com/81672260/134793283-393f77a1-2746-47c8-a39a-b8084be2fc2b.png)
 (2)
 
+
 # 2. 빅데이터 수집
 
 ## 2-1 빅데이터 수집 소개
